@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>나의 프로그램</title>
-</head>
-<body>
-    <h1>내가 만든 프로그램들</h1>
-    <ul>
-        <li><a href="files/aim_trainer_Setup.exe" download>에임 연습 프로그램 설치 msi</a></li>
-        <li><a href="files/aim_trainer_Setup.msi" download>에임 연습 프로그램 설치 exe</a></li>
-    </ul>
-</body>
-</html>
+
